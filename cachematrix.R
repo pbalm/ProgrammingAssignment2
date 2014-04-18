@@ -1,4 +1,4 @@
-## This is the programming assignment 2 for the R programming course (session April 4 2014)
+## This is the programming assignment 2 for the R programming course (session April 7 2014)
 ## Author: Paul Balm
 ## 
 ## The below function makeCacheMatrix creates an object that holds a matrix and caches the inverse
